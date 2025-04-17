@@ -37,6 +37,9 @@ Warehouse and office early warning systems
 ✅Conclusion:
 This project is an effective and economical fire detection system employing Arduino and sensors. It provides improved fire safety through early detection and immediate alert, minimizing damage from fire.
 
-[![Demo video](https://cdn.iconscout.com/icon/free/png-256/free-youtube-logo-icon-download-in-svg-png-gif-file-formats--social-media-70-flat-icons-color-pack-logos-432560.png)](https://youtu.be/ljhyIYjHzDA?si=aZFRx1n9q_q_I-FA)
+<a href="https://youtu.be/ljhyIYjHzDA?si=aZFRx1n9q_q_I-FA">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-youtube-logo-icon-download-in-svg-png-gif-file-formats--social-media-70-flat-icons-color-pack-logos-432560.png" alt="Demo video" width="50" />
+</a>
+
 
 
